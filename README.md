@@ -40,7 +40,5 @@ A secure and user-friendly **Online Voting System** built to manage elections, c
 | JavaScript / AJAX | Dynamic actions |
 | Git & GitHub | Version control |
 
----
 
-## 📂 Project Structure
 
