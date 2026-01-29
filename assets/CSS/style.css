@@ -1,0 +1,32 @@
+
+.text-black {
+    color: black;
+}
+
+.text-white {
+    color: white;
+}
+
+.text-green {
+    color: rgb(244, 1, 21);
+}
+
+.bg-black {
+    background-color: rgb(68, 179, 55);
+}
+
+.bg-white {
+    background-color: white;
+}
+
+.candidate-photo {
+    width: 70px;
+    height: 70px;
+    border: 3px solid white;
+    border-radius: 100%;
+}
+
+.hii{
+    font-size: 18px;
+    color: yellow;
+}
